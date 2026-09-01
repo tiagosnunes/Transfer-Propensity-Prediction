@@ -79,4 +79,6 @@ Group project developed for the course *"Classificação, Perfis e Propensões"*
 ## Authors
 
 - Tiago Nunes
-- *[add teammates' names]*
+- Ana Rita Taborda
+- Artur Albuquerque
+- Pedro Franco
