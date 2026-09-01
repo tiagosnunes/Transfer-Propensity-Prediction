@@ -74,7 +74,7 @@ As outlined in the project conclusion: monitor model performance in production, 
 
 ## Context
 
-Group project developed for the course *"Classificação, Perfis e Propensões"* (Classification, Profiling and Scoring), part of the Postgraduate Programme in Analytics for Business at INDEG-ISCTE Executive Education. Instructor: Francisco Cruz.
+Group project developed for the course *"Classificação, Perfis e Propensões"* (Classification, Profiling and Scoring), part of the Postgraduate Programme in Analytics for Business at INDEG-ISCTE Executive Education.
 
 ## Authors
 
